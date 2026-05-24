@@ -1,0 +1,5 @@
+1 -REPOCITORIO: es donde se cre un archivo para trabajar desde la terminal git
+
+2 -COMMIT: es una imagen o fotos que se leyoma a un trabajo hecho por la terminal 
+
+3 - PUSH: es donde uno guarda los cambios que ya haceen el git para poder hacer una carpeta 
